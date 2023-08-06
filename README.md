@@ -1,1 +1,3 @@
+# Hi there, I am Sifiso
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleysfiso&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleysfiso&langs_count=8)
