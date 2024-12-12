@@ -19,8 +19,7 @@
 
 ### 🚀 **Projects**
 1. **[DigiDream](#)**
-   - A comprehensive digital solution for a film production company. The project included a responsive web platform and a   
-     companion mobile app to streamline production management, communication, and resource allocation.
+   - A comprehensive digital solution for a film production company. The project included a responsive web platform and a companion mobile app to streamline production management, communication, and resource allocation.
    - **Tech Used:** C#, ASP.NET Web Api, SQL Server, React.js
 
 
